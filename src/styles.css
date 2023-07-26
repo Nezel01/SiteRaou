@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Btn {
+  margin: 5px;
+  background-color: #7004;
+  border-radius: 4px;
+}
+.Somme {
+  text-align: center;
+}
+
+body {
+  background-color: #bea190;
+}
+.divProduit {
+  /*background-color: blue;*/
+  margin: 10px;
+  float: left;
+  text-align: center;
+}
+.divCapsule {
+  display: grid;
+  margin: 20px;
+  /*background-color: blueviolet;*/
+}
+.txtCategorie {
+  text-align: center;
+}
+
+.txt-Bienvenu {
+  text-align: center;
+}
+.image {
+  border-radius: 10px;
+}
+
+/* grey = 27374D */
